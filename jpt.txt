@@ -1,1 +1,7 @@
-virtual environment ** created . also, deleted. 
+ sn= this_line_for_cat= git ** initialized and virtual environment created and repository cloned and push to remote 
+ sn= this_line_for_cat= cat ** cmd ** is important because text files are mistakenly edited and text is replaced with echo ** command. 
+
+
+check for echo ** cmd in above commands in terminal for edited text on jpt.txt
+ sn= this_line_for_cat= git ** and then virtual environment ** created 
+ sn= this_line_for_cat=  virtual environment ** deactivated then git ** push in following line 
